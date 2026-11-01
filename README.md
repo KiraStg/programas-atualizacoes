@@ -6,13 +6,13 @@ Instaladores para Windows de Osu! Skin Studio, Pixelaria, Prisma Conversor, Kira
 
 Abra a [versão mais recente](https://github.com/KiraStg/programas-atualizacoes/releases/latest) e escolha o instalador do programa desejado.
 
-## Lume Player 1.2.3
+## Lume Player 1.2.4
 
-[Baixar Lume Player 1.2.3](https://github.com/KiraStg/programas-atualizacoes/releases/download/v2026.11.01-lume-1.2.3/LumePlayer-Setup-1.2.3-b9b3b0c06f82.exe)
+[Baixar Lume Player 1.2.4](https://github.com/KiraStg/programas-atualizacoes/releases/download/v2026.11.01-lume-1.2.4/LumePlayer-Setup-1.2.4-1c950e10c6eb.exe)
 
 Interface modernizada com ícones consistentes, animações discretas e suporte à preferência de reduzir movimentos. Mantém cortes com alças e miniaturas, legendas e incorporação de áudio/legenda no arquivo original com backup.
 
-Instale a versão 1.2.3 uma vez e depois abra pelo atalho. Ao iniciar com conexão, o Lume avisa quando há uma versão maior e baixa automaticamente em segundo plano. Depois de conferir o pacote, instala a atualização quando o aplicativo fecha. A nova versão fica disponível na próxima abertura. Sem conexão, a reprodução continua disponível.
+Instale a versão 1.2.4 uma vez e depois abra pelo atalho. Ao iniciar com conexão, o Lume avisa quando há uma versão maior e baixa automaticamente em segundo plano. Depois de conferir o pacote, instala a atualização quando o aplicativo fecha. A nova versão fica disponível na próxima abertura. Sem conexão, a reprodução continua disponível.
 
 Quem ainda usa o atualizador 1.1 pode receber a pergunta de download nesta primeira migração; depois da instalação da 1.2, os próximos downloads serão automáticos.
 
